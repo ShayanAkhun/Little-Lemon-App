@@ -41,8 +41,8 @@
 
 ### Links
 
-- Github: [Code](https://github.com/marventures/little-lemon-app)
-- Demo : Scan the [QR Code](https://expo.dev/@marventures/little-lemon-app) to see the demo.
+- Github: [Code](https://github.com/ShayanAkhun/Little-Lemon-App)
+to see the demo.
 
 ## My process
 
