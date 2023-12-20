@@ -144,6 +144,6 @@ useEffect(() => {
 
 ## Author
 
-- Website - [Marvin Morales Pacis](https://marvin-morales-pacis.vercel.app/)
-- LinkedIn - [@marventures](https://www.linkedin.com/in/marventures/)
-- Twitter - [@marventures11](https://www.twitter.com/marventures11)
+- Website - [Shayan Ghori](https://dev-quest-livid.vercel.app/)
+- LinkedIn - [@shayanghouri](https://www.linkedin.com/in/shayan-ghouri-281522233/)
+- Twitter - [@shayanghoree](https://twitter.com/shayanghoree)
